@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 1
   
-   Author: 
-   Date:   
+   Author: Justin Aybar
+   Date: 2.27.19  
      
    Filename: tc_order.js  
 
@@ -16,4 +16,3 @@
    The itemQty array contains the quantity ordered of each item
    
 */
-
